@@ -11,5 +11,3 @@ www.dio.me
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-
-![](src/assets/UML.png)
